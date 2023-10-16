@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **derupkatha@gmail.com**
-- https://github.com/rupkatha-de/rupkatha-de/assets/136929335/20ed2481-ed3d-4d2a-898e-cacafbd9d44c
+[![An image of @rupkatha_26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rupkatha_26)](https://holopin.io/@rupkatha_26)
 
 
 <h3 align="left">Connect with me:</h3>
