@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **derupkatha@gmail.com**
+- ![image](https://github.com/rupkatha-de/rupkatha-de/assets/136929335/20ed2481-ed3d-4d2a-898e-cacafbd9d44c)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
