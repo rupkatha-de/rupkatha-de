@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupkatha-de&label=Profile%20views&color=0e75b6&style=flat" alt="rupkatha-de" /> </p>
 
-- 🔭 I’m currently working on [Netflix clone](https://github.com/rupkatha-de/Bharat-Intern/tree/main/Netflix_clone)
+- 🔭 I’m a final year CSE Core student at Vellore Institute Of Technology, Chennai. currently working on [Netflix clone](https://github.com/rupkatha-de/Bharat-Intern/tree/main/Netflix_clone)
 
 - 🌱 I’m currently learning **Web development**
 
