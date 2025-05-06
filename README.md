@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupkatha De</h1>
-<h3 align="center">A coding enthusiast</h3>
+<h3 align="center">Curiosity-fueled creator with an innovative mindset ✨🧠</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupkatha-de&label=Profile%20views&color=0e75b6&style=flat" alt="rupkatha-de" /> </p>
 
