@@ -23,7 +23,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupkatha-de&show_icons=true&locale=en&layout=compact" alt="rupkatha-de" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/rupkatha_de?border=0&radius=20)
+#![Leetcode Stats](https://leetcard.jacoblin.cool/rupkatha_de?border=0&radius=20)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rupkatha_de?ext=contest&theme=unicorn)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupkatha-de&show_icons=true&locale=en" alt="rupkatha-de" /></p>
 
