@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupkatha-de&label=Profile%20views&color=0e75b6&style=flat" alt="rupkatha-de" /> </p>
 
-- 🔭 I’m a final year CSE Core student at Vellore Institute Of Technology, Chennai.
+- 🔭 A final year student studying CS Engineering.
 
-- 🌱 I enjoy solving technical problems, researching and developing new technologies.
+- 🌱 Tech enthusiast exploring software development, data analytics and machine learning.
 
 - 📫 How to reach me **derupkatha@gmail.com**
 [![An image of @rupkatha_26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rupkatha_26)](https://holopin.io/@rupkatha_26)
