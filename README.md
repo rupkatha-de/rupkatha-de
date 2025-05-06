@@ -27,5 +27,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupkatha-de&" alt="rupkatha-de" /></p>
 
+![GithubSnake](https://github.com/halcyon-past/halcyon-past/blob/output/github-snake.svg%20dist/github-snake-dark.svg)
 
-
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Thanks%20For%20Visiting&section=footer"/>
+</p>
