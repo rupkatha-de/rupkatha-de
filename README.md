@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupkatha-de&label=Profile%20views&color=0e75b6&style=flat" alt="rupkatha-de" /> </p>
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+Rupkatha+this+side!!;Nice+to+see+you+here;I'm+a+undergrad+who+loves+coding;Striving+each+day+to+become+better;Feel+free+to+checkout+my+repos;Hope+to+see+you+again!!+%E2%9D%A3%EF%B8%8F" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+Rupkatha+this+side!!;Nice+to+see+you+here;I'm+an+undergrad+who+loves+coding;Striving+each+day+to+become+better;Feel+free+to+checkout+my+repos;Hope+to+see+you+again!!+%E2%9D%A3%EF%B8%8F" alt="Typing SVG" />
 </p>
 <h3 align="left">A Quick Glance :)</h3>
 
