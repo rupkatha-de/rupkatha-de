@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupkatha-de&label=Profile%20views&color=0e75b6&style=flat" alt="rupkatha-de" /> </p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Coding+enthusiast%2C+Design+thinker;Coffee-fueled+Engineer;Full+time+Yapper)](https://git.io/typing-svg)
-
 <h3 align="left">A Quick Glance :)</h3>
 
 - 🔭 A final year student studying CS Engineering.
