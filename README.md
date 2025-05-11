@@ -1,3 +1,4 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Rupkatha%20De&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Rupkatha De</h1>
 <h3 align="center">Curiosity-fueled creator with an innovative mindset ✨🧠</h3>
 
