@@ -6,14 +6,14 @@
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+Rupkatha+this+side!!;Nice+to+see+you+here;I'm+an+undergrad+who+loves+coding;Striving+each+day+to+become+better;Feel+free+to+checkout+my+repos;Hope+to+see+you+again!!+%E2%9D%A3%EF%B8%8F" alt="Typing SVG" />
 </p>
-<!-- <h3 align="left">A Quick Glance :)</h3> -->
+
 
 - 🔭 A final year student studying CS Engineering.
 
 - 🌱 A Tech enthusiast exploring software development, data analytics and machine learning.
 
 - 📩 How to reach me: **derupkatha@gmail.com**
-<!-- - ➡  Check this out: **https://bento.me/rupkatha-de**-->
+
 - [![An image of @rupkatha_26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rupkatha_26)](https://holopin.io/@rupkatha_26)
 
 
