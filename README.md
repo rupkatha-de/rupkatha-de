@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 A final year student studying CS Engineering.
+- 🔭 A software engineer working at Microsoft.
 
 - 🌱 A Tech enthusiast exploring software development, data analytics and machine learning.
 
